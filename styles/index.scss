@@ -1,0 +1,12 @@
+:root {
+  --yun-c-cloud: #e9e1d6;
+}
+
+body {
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+/* Keep the Yun home page focused on text until a profile photo is added. */
+.yun-square {
+  display: none !important;
+}
