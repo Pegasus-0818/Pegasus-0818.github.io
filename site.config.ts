@@ -4,11 +4,11 @@ export default defineSiteConfig({
   url: 'https://pegasus-0818.github.io/',
   lang: 'zh-CN',
   languages: ['zh-CN'],
-  title: 'Ma Junhao | 马骏豪',
+  title: '天马要行空',
   subtitle: 'Accounting · Shanghai Jiao Tong University',
   description: '',
   author: {
-    name: '马骏豪 | Ma Junhao',
+    name: '天马要行空',
     email: '1526717032@qq.com',
     avatar: '',
   },

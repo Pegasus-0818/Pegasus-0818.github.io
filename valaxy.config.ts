@@ -18,7 +18,7 @@ export default defineValaxyConfig<ThemeConfig>({
     },
     banner: {
       enable: true,
-      title: ['Ma Junhao', '马骏豪'],
+      title: '天马要行空',
       cloud: {
         enable: false,
       },

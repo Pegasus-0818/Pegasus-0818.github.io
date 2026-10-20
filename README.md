@@ -1,4 +1,4 @@
-# Ma Junhao's personal website
+# 天马要行空的个人网站
 
 Built with [Valaxy](https://valaxy.site/) and the [Yun theme](https://valaxy.site/themes/yun), and published through GitHub Pages.
 
